@@ -33,7 +33,15 @@ A simple yet functional AI chatbot built with Python and Tkinter. This chatbot u
 
 ## 📸 Screenshot
 
-> (Insert a screenshot here once available. You can name it `screenshot.png` and place it in the repo.)
+![chatbot p1](https://github.com/user-attachments/assets/2824aab1-e466-4fe1-97ac-238d03c3ece2)
+
+![chatbot p2](https://github.com/user-attachments/assets/606b9794-e313-4cb1-a060-95570b090937)
+
+![chatbot p3](https://github.com/user-attachments/assets/e7d6109c-4a21-4d9c-a7ee-f8c5b40c4940)
+
+![chatbot p4](https://github.com/user-attachments/assets/862f7fd5-4b3a-4438-8f53-15e3a759b963)
+
+![chatbot p5](https://github.com/user-attachments/assets/192a2cae-84fa-42a0-af83-db6b3f1e7bde)
 
 ---
 
@@ -48,9 +56,10 @@ A simple yet functional AI chatbot built with Python and Tkinter. This chatbot u
 
 1. Clone this repository:
    git clone https://github.com/sb222-y/ai-chatbot-rulebased.git
+   
    cd ai-chatbot-rulebased
 
-2. Run the chatbot:
+3. Run the chatbot:
     python chatbot.py
 
 ## 🧪 Example Inputs
