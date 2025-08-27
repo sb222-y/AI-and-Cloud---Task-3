@@ -47,7 +47,7 @@ A simple yet functional AI chatbot built with Python and Tkinter. This chatbot u
 ### ▶️ Steps
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/ai-chatbot-rulebased.git
+   git clone https://github.com/sb222-y/ai-chatbot-rulebased.git
    cd ai-chatbot-rulebased
 
 2. Run the chatbot:
